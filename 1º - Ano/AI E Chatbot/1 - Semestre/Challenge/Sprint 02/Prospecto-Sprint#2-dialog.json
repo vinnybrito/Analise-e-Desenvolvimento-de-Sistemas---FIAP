@@ -1,0 +1,1170 @@
+{
+  "intents": [
+    {
+      "intent": "Abrir_Capital",
+      "examples": [
+        {
+          "text": "Abertura de capital"
+        },
+        {
+          "text": "Como uma empresa abre o seu capital?"
+        },
+        {
+          "text": "Como vender ações na bolsa de valores?"
+        },
+        {
+          "text": "De que forma uma empresa abre o seu capital"
+        },
+        {
+          "text": "O que a empresa precisa fazer para abrir seu capital"
+        },
+        {
+          "text": "O que é necessario para uma empresa abrir seu capital?"
+        },
+        {
+          "text": "O que é necessario para uma empresa vender as suas ações?"
+        },
+        {
+          "text": "O que é necessari para abrir o capital na bolsa?"
+        },
+        {
+          "text": "Processo de abertura de capital"
+        },
+        {
+          "text": "Qual a pipeline para a empresa abrir capital na bolsa?"
+        },
+        {
+          "text": "Qual o processo para uma empresa abrir o seu capital na bolsa de valores?"
+        },
+        {
+          "text": "Que tipo de empresa pode abrir o seu capital na bolsa?"
+        }
+      ],
+      "description": "Processo para uma empresa abrir o seu capital na bolsa"
+    },
+    {
+      "intent": "Bookbuilding",
+      "examples": [
+        {
+          "text": "Bookbuilding"
+        },
+        {
+          "text": "Como uma empresa consegue avaliar a demanda de seus papeis?"
+        },
+        {
+          "text": "Gostaria de entender o que é bookbuilding"
+        },
+        {
+          "text": "Informações sobre bookbuilding"
+        },
+        {
+          "text": "O que é bookbuilding?"
+        },
+        {
+          "text": "O que significa bookbuilding?"
+        },
+        {
+          "text": "O que significa para o investidor o bookbuilding?"
+        },
+        {
+          "text": "Por que o Bookbuilding é importante para uma empresa."
+        },
+        {
+          "text": "Pra que serve o bookbuilding?"
+        },
+        {
+          "text": "Quais informações a empresa consegue obter através do bookbuilding"
+        },
+        {
+          "text": "Qual o objetivo de uma empresa realizar o bookbuilding?"
+        },
+        {
+          "text": "Quero entender o que é bookbuilding"
+        }
+      ],
+      "description": "O que significa bookbuilding"
+    },
+    {
+      "intent": "Como_investir_IPO",
+      "examples": [
+        {
+          "text": "Como comprar uma ação?"
+        },
+        {
+          "text": "Como faço para investir em IPO?"
+        },
+        {
+          "text": "Como fazer um investimento?"
+        },
+        {
+          "text": "Como investir em IPO?"
+        },
+        {
+          "text": "Como realizar um investimento em IPO?"
+        },
+        {
+          "text": "Gostaria de investir em IPO"
+        },
+        {
+          "text": "O que é necessario para investir em IPO?"
+        },
+        {
+          "text": "O que é necessario para poder fazer um investimento em IPO?"
+        },
+        {
+          "text": "Passo a passo para investir em IPO"
+        },
+        {
+          "text": "Processo para investir ou comprar uma ação"
+        },
+        {
+          "text": "Quero investir em IPO"
+        },
+        {
+          "text": "Realizar um investimento"
+        }
+      ],
+      "description": "Processo para investir"
+    },
+    {
+      "intent": "CVM",
+      "examples": [
+        {
+          "text": "CVM"
+        },
+        {
+          "text": "Gostaria de saber o que é a CVM"
+        },
+        {
+          "text": "Informações sobre a CVM"
+        },
+        {
+          "text": "O que é a Comissão de Valores Mobiliários"
+        },
+        {
+          "text": "O que é a CVM?"
+        },
+        {
+          "text": "O que é CVM e qual a sua importancia?"
+        },
+        {
+          "text": "O que significa CVM?"
+        },
+        {
+          "text": "Pelo que a CVM é responsável?"
+        },
+        {
+          "text": "Por que a CVM é tão importante?"
+        },
+        {
+          "text": "Qual o objetivo da CVM?"
+        },
+        {
+          "text": "Qual o papel da CVM no mercado de ações?"
+        },
+        {
+          "text": "Quero entender o que é a CVM"
+        }
+      ],
+      "description": "O que é CVM e qual a sua importancia"
+    },
+    {
+      "intent": "IPO",
+      "examples": [
+        {
+          "text": "Abertura de capital"
+        },
+        {
+          "text": "Gostaria de saber o que é IPO"
+        },
+        {
+          "text": "Informações sobre investimentos em IPO."
+        },
+        {
+          "text": "Informações sobre IPO?"
+        },
+        {
+          "text": "IPO"
+        },
+        {
+          "text": "O que é investir em IPO?"
+        },
+        {
+          "text": "O que é IPO?"
+        },
+        {
+          "text": "O que significa abrir capital?"
+        },
+        {
+          "text": "O que significa Initial Public Offering?"
+        },
+        {
+          "text": "O que significa IPO?"
+        },
+        {
+          "text": "O que significa oferta pública inicial?"
+        },
+        {
+          "text": "O que significa uma empresa abrir capital?"
+        }
+      ],
+      "description": "Intenção destinada a responder o significado de IPO"
+    },
+    {
+      "intent": "Oferta-ações",
+      "examples": [
+        {
+          "text": "Gostaria de entender o que é uma ação?"
+        },
+        {
+          "text": "Oferta de ações"
+        },
+        {
+          "text": "O que é uma oferta de ações?"
+        },
+        {
+          "text": "O que são ações?"
+        },
+        {
+          "text": "O que significa ações?"
+        },
+        {
+          "text": "O que significa para uma empresa oferecer suas ações?"
+        },
+        {
+          "text": "Para que serve uma oferta de ações?"
+        },
+        {
+          "text": "Por que comprar uma ação?"
+        },
+        {
+          "text": "Por que uma empresa faz uma oferta de ações?"
+        },
+        {
+          "text": "Por que uma empresa oferece suas ações?"
+        },
+        {
+          "text": "Pra que serve uma ação para um investidor?"
+        },
+        {
+          "text": "Quais são os tipos de oferta de ações?"
+        }
+      ],
+      "description": "O que é uma ação?"
+    },
+    {
+      "intent": "papeis",
+      "examples": [
+        {
+          "text": "Definição de papeis"
+        },
+        {
+          "text": "Gostaria de entender melhor o que são papeis no mercado financeiro"
+        },
+        {
+          "text": "Gostaria de entender o conceito de papeis"
+        },
+        {
+          "text": "Informações sobre os papeis"
+        },
+        {
+          "text": "O que os papeis significam?"
+        },
+        {
+          "text": "O que quer dizer papeis no mercado financeiro?"
+        },
+        {
+          "text": "O que são papeis?"
+        },
+        {
+          "text": "O que são papeis de uma empresa no mercado financeiro?"
+        },
+        {
+          "text": "O que significa papeis?"
+        },
+        {
+          "text": "Papeis"
+        },
+        {
+          "text": "Por que os papeis são importantes?"
+        },
+        {
+          "text": "Pra que servem os papeis?"
+        }
+      ],
+      "description": "Conceito do termo no mercado de ações"
+    },
+    {
+      "intent": "Prospecto",
+      "examples": [
+        {
+          "text": "Gostaria de saber o que é o prospecto"
+        },
+        {
+          "text": "Gostaria de ter informações sobre o que é o prospecto"
+        },
+        {
+          "text": "Informações sobre o prospecto"
+        },
+        {
+          "text": "O que é o prospecto?"
+        },
+        {
+          "text": "O que é o prospecto preliminar?"
+        },
+        {
+          "text": "O que o prospecto significa para o investidor?"
+        },
+        {
+          "text": "Por que o prospecto é importante?"
+        },
+        {
+          "text": "Pra que serve o prospecto?"
+        },
+        {
+          "text": "Prospecto"
+        },
+        {
+          "text": "Quais informações contém o prospecto?"
+        },
+        {
+          "text": "Qual o objetivo do prospecto?"
+        },
+        {
+          "text": "Quero entender o que é o prospecto"
+        }
+      ],
+      "description": "Intenção destinada a responder o que é o prospecto"
+    },
+    {
+      "intent": "renda-fixa",
+      "examples": [
+        {
+          "text": "Caracteristicas de um investimento em renda fixa"
+        },
+        {
+          "text": "Como funciona um investimento em renda fixa?"
+        },
+        {
+          "text": "Conceito de renda fixa"
+        },
+        {
+          "text": "Gostaria de entender o que é renda fixa"
+        },
+        {
+          "text": "Invetimento em renda fixa"
+        },
+        {
+          "text": "O que é renda fixa?"
+        },
+        {
+          "text": "O que é um invetimento em renda fixa?"
+        },
+        {
+          "text": "O que significa para o investidor renda fixa?"
+        },
+        {
+          "text": "O que significa renda fixa?"
+        },
+        {
+          "text": "Por que investir em renda fixa?"
+        },
+        {
+          "text": "Renda fixa"
+        },
+        {
+          "text": "Renda fixa é um tipo de investimento?"
+        }
+      ],
+      "description": "0 que é renda fixa"
+    },
+    {
+      "intent": "renda-variavel",
+      "examples": [
+        {
+          "text": "Caracteristicas de um investimento em váriavel"
+        },
+        {
+          "text": "Como funciona um investimento em renda variável?"
+        },
+        {
+          "text": "Conceito renda variável"
+        },
+        {
+          "text": "Gostaria de entender o que é renda variável"
+        },
+        {
+          "text": "Investimento em renda variável"
+        },
+        {
+          "text": "O que é renda variável?"
+        },
+        {
+          "text": "O que é um investimento em renda variável?"
+        },
+        {
+          "text": "O que significa para o investidor renda variável?"
+        },
+        {
+          "text": "O que significa renda variável?"
+        },
+        {
+          "text": "Por que investir em renda váriavel?"
+        },
+        {
+          "text": "Renda Variável"
+        },
+        {
+          "text": "Renda variável é um tipo de investimento?"
+        }
+      ],
+      "description": "O que é renda variável"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "ativo-passivo",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "ativo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "passivo",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "disponivel",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "disponível",
+          "synonyms": [
+            "achar",
+            "encontrar ",
+            "localizar"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "primaria-secundaria",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "primária",
+          "synonyms": [
+            "primeira"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "secundária",
+          "synonyms": [
+            "secundaria",
+            "segunda"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sim-nao",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "nao",
+          "synonyms": [
+            "n",
+            "não"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "sim",
+          "synonyms": [
+            "blz",
+            "claro",
+            "com certeza",
+            "ok",
+            "okay",
+            "positivo",
+            "ss",
+            "tudo bem"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "vantagem-desvantagem",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "desvantagem",
+          "synonyms": [
+            "desvantagens",
+            "riscos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "vantagem",
+          "synonyms": [
+            "beneficios",
+            "benefio",
+            "vantagens"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Introdução",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá. Eu sou o bot do iTech Future. 🤖\nEstou aqui para tirar as suas dúvidas sobre IPO e outras informações sobre investir no mercado financeiro. Como posso te ajudar?"
+              },
+              {
+                "text": "Oi, tudo bem com você? 👋🏽\nEu sou o bot do iTech Future. Estou aqui para responder e tirar suas dúvidas sobre o IPO e outras informações sobre investir no mercado financeiro. Como posso te ajudar?"
+              },
+              {
+                "text": "Seja muito bem vindo! 🤖\nEu sou o bot do iTech Future e estou aqui para te ajudar. Fique a vontade para fazer qualquer pergunta a respeito de investimentos em IPO e outros assuntos do mercado financeiro."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Caso o bot não entenda a pergunta",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Eu não entendi a sua pergunta. Por favor, digite novamente. "
+              },
+              {
+                "text": "Você pode refazer sua afirmação? Eu não entendi o que você quis dizer."
+              },
+              {
+                "text": "Ops, eu não entendi a sua frase. Por favor, digite novamente."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_6_1667676392229",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Como funciona o processo de abertura de capital na bolsa?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Primeiramente, a empresa que deseja abrir seu capital precisa se registrar como empresa aberta na CVM (Comissão de Valores Mobiliários) e pedir uma permissão para poder ser listada na Bolsa de Valores.\n\nDepois disso, a empresa precisa lançar um prospecto de oferta que, de acordo com o site oficial da B3 (Bolsa de Valores do Brasil), nada mais é do que um documento com todas as informações sobre a companhia e a distribuição das ações, como setor de negócio, situação de mercado, quadro administrativo, riscos e planos para o futuro do negócio, entre outros.\n\nVeja na prática o comentário de um empresa que acabou de abrir o seu capital na bolsa de valores no video abaixo: "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Como uma empresa abre um IPO",
+            "source": "https://www.youtube.com/watch?v=DtcVIzCiHIo&t=8s&ab_channel=ClearCorretora",
+            "response_type": "video",
+            "channel_options": {
+              "chat": {
+                "dimensions": {}
+              }
+            }
+          }
+        ]
+      },
+      "conditions": "#Abrir_Capital",
+      "dialog_node": "node_10_1667859937332",
+      "previous_sibling": "node_1_1668243104082"
+    },
+    {
+      "type": "standard",
+      "title": "Como investir em IPO",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "1.  Em primeiro lugar, é necessário que você tenha conta em uma corretora de valores. A corretora vai ser a responsável por fazer a intermediação dos negócios durante os IPOs.\n\n2. Antes de investir em uma empresa que está realizando um IPO, é importante consultar os sites da CVM, da B3 ou junto à sua corretora para saber todos os detalhes sobre a empresa que você está pensando em investir. \n\n3. Solicite junto a sua corretora os documentos necessários para realizar um pedido de reserva de ações. No formulário, indique o valor financeiro que pretende investir nas ações e espere as próximas etapas do processo acontecerem. Pode ser necessário depositar uma garantia para assegurar sua participação no IPO. Após isso, aguarde o resultado do pedido e confirme sua participação no IPO.\n\n4. Ao final do processo de bookbuilding você será informado sobre o preço final dos papéis e também sobre o número exato que conseguiu adquirir. Transfira os recursos para sua conta para que o pagamento aconteça. Com esse procedimento, você garante a aquisição de um pacote de ações da empresa e se torna, de fato, um acionista da mesma.\n\n5. Após realizar a compra dos ativos é essencial acompanhar o desempenho dos papéis negociados na B3. Isso lhe dará uma visão clara da performance da empresa e dos rumos que ela está tomando. Assim você consegue ter uma ideia melhor do que esperar dela no futuro e poderá tomar as melhores decisões para o seu dinheiro.\n\nO vídeo abaixo, produzido pelo canal Portal de Investimento, tem como objetivo te ajudar a entender esse processo de investimento:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Como investir em um IPO (abertura de capital)?",
+            "source": "https://www.youtube.com/watch?v=TaqpWTEAhEs&t=54s&ab_channel=PortaldoInvestimento",
+            "response_type": "video",
+            "channel_options": {
+              "chat": {
+                "dimensions": {}
+              }
+            }
+          }
+        ]
+      },
+      "conditions": "#Como_investir_IPO",
+      "dialog_node": "node_10_1667925210003",
+      "previous_sibling": "node_1_1668244258369"
+    },
+    {
+      "type": "standard",
+      "title": "Encontrar Prospecto",
+      "output": {
+        "generic": []
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_5_1668245408259"
+      },
+      "conditions": "#Prospecto && @disponivel",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1668245561315",
+      "previous_sibling": "node_9_1668392170317"
+    },
+    {
+      "type": "standard",
+      "title": "O que são ações?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "As ações são pequenas partes do dinheiro investido em uma empresa. Quando uma empresa faz uma oferta de ações, é como se ela estivesse dando ao investidor a oportunidade de adquirir uma parte dessa empresa. A empresa pode realizar esse processo mais de uma vez, e essa oferta pode ser primária ou secundária.  Caso você esteja interessado em saber qual a diferença entre essas duas ofertas..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "selecione as opções abaixo:  ",
+            "options": [
+              {
+                "label": "Oferta Primária",
+                "value": {
+                  "input": {
+                    "text": "@primaria-secundaria:primária"
+                  }
+                }
+              },
+              {
+                "label": "Oferta Secundária",
+                "value": {
+                  "input": {
+                    "text": "@primaria-secundaria:secundária"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Oferta-ações",
+      "dialog_node": "node_1_1668243104082",
+      "previous_sibling": "node_10_1667925210003"
+    },
+    {
+      "type": "standard",
+      "title": "Vantagem OU Desvantagem",
+      "output": {
+        "generic": []
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1668194311248"
+      },
+      "conditions": "#Como_investir_IPO && @vantagem-desvantagem",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1668244258369",
+      "previous_sibling": "node_2_1667858762809"
+    },
+    {
+      "type": "standard",
+      "title": "Oferta Secundária",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Na oferta pública secundária as ações já existem e são vendidas pelos próprios cotistas ou acionistas da empresa. Ou seja, o lucro obtido com a venda, vai para o vendedor e não para a empresa, como na oferta pública primária."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "Posso te ajudar em mais alguma coisa?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668273686111",
+      "conditions": "@primaria-secundaria:secundária",
+      "dialog_node": "node_1_1668615096822"
+    },
+    {
+      "type": "standard",
+      "title": "Oferta Primária",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A oferta pública primária é aquela que acontece quando a empresa decide abrir seu capital e emite novas ações para colocá-las à venda no mercado. Neste caso, a companhia é a vendedora das ações e o objetivo é arrecadar recursos para a empresa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1668273724927",
+      "conditions": "@primaria-secundaria:primária",
+      "dialog_node": "node_1_1668615291434"
+    },
+    {
+      "type": "standard",
+      "title": "O que é o Prospecto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O prospecto é o documento mais importante de um IPO. Ele apresenta informações sobre a empresa na qual você está investindo o seu dinheiro. É através do prospecto que você consegue avaliar a saúde financeira da empresa, conhecer seus concorrentes, o mercado onde atuam, os riscos e o que a empresa vai fazer com o dinheiro que você investiu. Todas essas informações do prospecto vão te ajudar a tomar uma boa decisão."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Prospecto",
+      "dialog_node": "node_2_1667858762809",
+      "previous_sibling": "node_10_1668245561315"
+    },
+    {
+      "type": "standard",
+      "title": "Oferta Segundária de Ações",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Na oferta pública secundária as ações já existem e são vendidas pelos próprios cotistas ou acionistas da empresa. Ou seja, o lucro obtido com a venda, vai para o vendedor e não para a empresa, como na oferta pública primária."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Veja também o que significa",
+            "options": [
+              {
+                "label": "Oferta Primária",
+                "value": {
+                  "input": {
+                    "text": "@primaria-secundaria:primária"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1668243104082",
+      "conditions": "@primaria-secundaria:secundária",
+      "dialog_node": "node_2_1668273724927",
+      "previous_sibling": "node_4_1668273686111"
+    },
+    {
+      "type": "standard",
+      "title": "Passivo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Os passivos representam todas as despesas, dívidas e obrigações financeiras que a empresa tem. Ou seja, toda a soma de saída de capital do empreendimento.\n\nEntre os principais passivos financeiros, podemos citar: empréstimos, financiamentos, consórcios, dívidas, contas a pagar, custos com manutenção de imóveis e outros."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668918823384",
+      "conditions": "@ativo-passivo:passivo",
+      "dialog_node": "node_3_1668918874968",
+      "previous_sibling": "node_4_1668918853935"
+    },
+    {
+      "type": "standard",
+      "title": "Não",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Fique a vontade para fazer mais perguntas. Vai ser um prazer tirar suas dúvidas!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1667676392229",
+      "conditions": "@sim-nao:nao",
+      "dialog_node": "node_4_1668052909196",
+      "previous_sibling": "node_7_1668052486026"
+    },
+    {
+      "type": "standard",
+      "title": "Vantagem de investir em IPO",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "• Uma das vantagens de você investir em IPO, é que os riscos são baixos. Caso aconteça uma queda, os riscos são bem menores pelo baixo valor da compra.\n\n• Existe também uma boa chance de você receber grandes lucros, se acontecer das ações subirem bastante quando forem vendidas pela primeira vez na Bolsa de Valores."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1667925210003",
+      "conditions": "@vantagem-desvantagem:vantagem",
+      "dialog_node": "node_4_1668194311248"
+    },
+    {
+      "type": "standard",
+      "title": "Oferta Primária de Ações",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A oferta pública primária é aquela que acontece quando a empresa decide abrir seu capital e emite novas ações para colocá-las à venda no mercado. Neste caso, a companhia é a vendedora das ações e o objetivo é arrecadar recursos para a empresa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Veja também o que significa",
+            "options": [
+              {
+                "label": "Oferta Secundária",
+                "value": {
+                  "input": {
+                    "text": "@primaria-secundaria:secundária"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1668243104082",
+      "conditions": "@primaria-secundaria:primária",
+      "dialog_node": "node_4_1668273686111"
+    },
+    {
+      "type": "standard",
+      "title": "O que são papeis?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Papel é um termo utilizado no mercado financeiro que pode se referir a um ativo financeiro ou ação de uma determinada empresa."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#papeis",
+      "dialog_node": "node_4_1668918823384",
+      "previous_sibling": "node_6_1668918958755"
+    },
+    {
+      "type": "standard",
+      "title": "Ativo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ativos de uma empresa são os bens e direitos que uma empresa possui e que podem ser convertidos em meios monetários, proporcionando ganhos.\n\nPor bens, conhecemos: o dinheiro em caixa, móveis e imóveis, maquinários, estoque de mercadoria. Já por direitos, conhecemos as dívidas a receber."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668918823384",
+      "conditions": "@ativo-passivo:ativo",
+      "dialog_node": "node_4_1668918853935"
+    },
+    {
+      "type": "standard",
+      "title": "Desvantagem de investir em IPO",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "• Como as ações estão iniciando na Bolsa de Valores, o investidor não consegue fazer uma boa análise da instabilidade e demanda dessas ações. Assim, é muito incerto saber qual será a tendência destas ações.\n\n• Outro fator são as quedas dos valores das ações que estão iniciando. Elas poderão subir muito no dia de sua abertura, mas, depois podem começar a cair ao decorrer dos dias."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1667925210003",
+      "conditions": "@vantagem-desvantagem:desvantagem",
+      "dialog_node": "node_5_1668194393477",
+      "previous_sibling": "node_4_1668194311248"
+    },
+    {
+      "type": "standard",
+      "title": "Onde encontrar o Prospecto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O prospecto está disponível no site ou aplicativo da sua corretora. Caso você não o encontre, entre em contato com a corretora para solicitar o documento."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1667858762809",
+      "conditions": "@disponivel:disponível",
+      "dialog_node": "node_5_1668245408259"
+    },
+    {
+      "type": "standard",
+      "title": "O que é IPO?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O IPO* representa a primeira vez que uma empresa vai para a bolsa de valores e oferece para os investidores a oportunidade de comprarem pequenas partes da empresa e se tornarem sócios dela. Esse acontecimento, também é chamado de abertura de capital, um evento na qual você pode investir o seu dinheiro em uma empresa e se tornar sócio dela.\n\n*IPO é uma sigla em inglês que significa “initial public offering”, ou “oferta pública inicial” em português.\n\nGostaria de saber mais sobre o assunto?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#IPO",
+      "dialog_node": "node_6_1667676392229",
+      "previous_sibling": "node_8_1668919743007"
+    },
+    {
+      "type": "standard",
+      "title": "Ativo e Passivo",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1668918853935"
+      },
+      "conditions": "#papeis || @ativo-passivo",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1668918958755",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Sim",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nesse caso, assista ao video abaixo produzida pela corretora Modalmais, que explicará mehor sobre o assunto 👇🏽"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "IPO: o que é, como funciona e como investir",
+            "source": "https://www.youtube.com/watch?v=NPKKf2ZP4is&ab_channel=modalmais-obancodigitaldosinvestidores",
+            "response_type": "video",
+            "channel_options": {
+              "chat": {
+                "dimensions": {
+                  "base_height": ""
+                }
+              }
+            }
+          }
+        ]
+      },
+      "parent": "node_6_1667676392229",
+      "conditions": "@sim-nao:sim",
+      "dialog_node": "node_7_1668052486026"
+    },
+    {
+      "type": "standard",
+      "title": "CVM: O que é, o que faz.",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A CVM - Comissão de Valores Mobiliários é uma entidade vinculada ao Ministério da Fazenda que tem como objetivo defender os investidores, especialmente os acionistas minoritários. Ela tem como responsábilidade desenvolver, regular e fiscalizar o Mercado de Valores Mobiliários, como instrumento de captação de recursos para as empresas, protegendo o interesse dos investidores e garantindo a divulgação das informações sobre os emissores e seus valores mobiliários."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#CVM",
+      "dialog_node": "node_7_1668392096205",
+      "previous_sibling": "node_4_1668918823384"
+    },
+    {
+      "type": "standard",
+      "title": "Renda Variável",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Investimentos de renda variável são aqueles na qual o retorno do valor investido é imprevisível. O valor varia conforme as condições do mercado – e, consequentemente, a remuneração que as aplicações oferecem segue esse mesmo princípio."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#renda-variavel",
+      "dialog_node": "node_8_1668919743007",
+      "previous_sibling": "node_9_1668919732932"
+    },
+    {
+      "type": "standard",
+      "title": "O que significa Bookbuilding",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bookbuilding é a etapa na qual a empresa avalia o interesse dos investidores pelo seu IPO. A empresa realiza uma pesquisa com os investidores para saber o quanto estariam dispostos a desembolsar, considerando uma faixa de preço máximo (teto) e mínimo (piso) para as ações. A partir dessa pesquisa, a empresa consegue projetar qual será a demanda pelos seus papéis e, junto com o banco de investimento que coordena a emissão, definir um preço justo para a sua ação. Esse valor é normalmente divulgado um dia antes do início da negociação das ações em bolsa.  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Bookbuilding",
+      "dialog_node": "node_9_1668392170317",
+      "previous_sibling": "node_7_1668392096205"
+    },
+    {
+      "type": "standard",
+      "title": "Renda Fixa",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Renda fixa é todo tipo de investimento que tem regras de rendimento definidas antes. Na hora de aplicar, o investidor já fica sabendo o prazo e a taxa de rendimento ou o índice que será usado para valorizar o dinheiro investido."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#renda-fixa",
+      "dialog_node": "node_9_1668919732932",
+      "previous_sibling": "node_10_1667859937332"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Prospecto Sprint#2",
+  "language": "pt-br",
+  "description": ""
+}

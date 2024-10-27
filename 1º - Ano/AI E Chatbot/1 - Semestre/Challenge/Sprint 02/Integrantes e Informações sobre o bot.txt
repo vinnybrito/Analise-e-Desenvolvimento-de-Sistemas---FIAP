@@ -1,0 +1,26 @@
+INTEGRANTES DO GRUPO:
+
+Gustavo Guarnieri de Melo        RM: 97100
+Gustavo Santos Nascimento        RM: 96687
+Vinícius Almeida Kotchetkoff     RM: 96331
+Vinicius Rodrigues Brito         RM: 97473
+--------------------------------------------------------------
+
+Em nosso projeto, não utilizaremos o Chatbot, nesse caso, 
+criamos um dialogo para ajudar pessoas que não tem nenhum 
+conhecimento sobre investimento. Assim optamos por criar um 
+bot que responderá os principais termos do mercado financeiro 
+que envolvem o IPO.
+
+--------------------------------------------------------------
+
+Caso seja necessário segue a baixo o ID e a URL do Assistente:
+
+Assistant ID: 
+340f446d-b98f-4749-828b-2e6f6b87a2e0
+
+Assistant URL: 
+https://api.us-south.assistant.watson.cloud.ibm.com/v2/assistants/340f446d-b98f-4749-828b-2e6f6b87a2e0/sessions
+
+Web Chat: 
+https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?region=us-south&integrationID=6dcc4d7d-fe80-4cdf-8145-42061d91b4f3&serviceInstanceID=a68127af-6f1f-4c3f-8dc6-e532821be0cb

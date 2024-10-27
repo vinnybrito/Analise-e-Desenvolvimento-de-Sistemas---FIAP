@@ -1,0 +1,22 @@
+CP1- Escopo de Produto
+Vence 12 de setembro de 2022 às 23:59
+--------------------------------------------
+
+Instruções:
+Desenvolver o escopo do produto de um App Acadêmico do aluno da Fiap. 
+Para isso, entenda as dores dos alunos e como funciona o App atual (Fiapp).
+Entreguem um documento no formato word (apenas 1 integrante do grupo). 
+Não esqueçam de colocar os nomes e RM de todos os integrantes da equipe.
+
+Boa atividade a todos.
+
+---------------------------------------------
+
+Comentários do professor:
+
+Pessoal, o escopo está bem redigido. Está com o padrão correto com 
+justificativa, objetivos e descrição do produto.
+
+Porém, faltou profundidade. A pesquisa e o levantamento de requisitos
+estão rasos. Precisamos abstrair mais nosso pensamento de gestores para
+contemplar a ideia de projeto e não apenas uma "atualização de produto".
